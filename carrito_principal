@@ -1,0 +1,31 @@
+<!DOCTYPE>
+
+<html>
+    <head>
+        <title>Carrito de compras</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1      auto">  
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+<body>
+    <h1 id="titulo1"> Carrito de Compras </h1>
+    <h1 id="titulo2">Compra aqui los mejores productos del mercado</h1>
+    <div class="productos">
+    <ul>
+        <h2 class="productos">Lista de productos</h2>
+        <ul class="productos">
+            <li class="productos">Electrodomesticos</li>
+            <img src="https://decortips.com/es/wp-content/uploads/2021/06/prolongar-la-vida-de-los-electrodomesticos-768x512.jpg" width="" height="150px">
+            <button ><a href="Electro.html">Entrar</a></button>
+
+       
+        </ul>
+
+        <ul class="productos">
+            <li class="productos">Moda</li>
+            <img src="https://i.pinimg.com/564x/d3/6e/15/d36e155f4d4750da42c000fcde4d49a7.jpg" height="150">
+            <button ><a href="Moda.html">Entrar</a></button>
+        </ul>
+    </ul>
+    </div>
+</body>
+</html>
